@@ -8,8 +8,8 @@ Throughout my career, I have worked on various projects catering to large user b
 
 I have primarily worked with the following technology stacks:
 
-- <img src="https://img.shields.io/badge/Native iOS Mobile Application--s?labelColor=black" alt="Swift and ObjectiveC mobile apps"> <img src="https://img.shields.io/badge/-Swift -- SwiftUI -- Objective C -grey" alt="Swift and Objective-C mobile apps">
-- <img src="https://img.shields.io/badge/Native Android Mobile Application--s?labelColor=black" alt="Java and Kotlin mobile apps"> <img src="https://img.shields.io/badge/-Kotlin -- Java -- Jetpack -grey" alt="Java and Kotlin mobile apps">
-- <img src="https://img.shields.io/badge/Python Full stack--s?labelColor=black" alt="Full-stack with Python"> <img src="https://img.shields.io/badge/-Django -- Flask -grey" alt="Django, Flask">
+- <img src="https://img.shields.io/badge/Native iOS--s?labelColor=black" alt="Swift and ObjectiveC mobile apps"> <img src="https://img.shields.io/badge/-Swift -- SwiftUI -- Objective--C -grey" alt="Swift and Objective-C mobile apps">
+- <img src="https://img.shields.io/badge/Native Android--s?labelColor=black" alt="Java and Kotlin mobile apps"> <img src="https://img.shields.io/badge/-Kotlin -- Java -- Jetpack Compose -grey" alt="Java and Kotlin mobile apps">
+- <img src="https://img.shields.io/badge/Full stack Python--s?labelColor=black" alt="Full-stack with Python"> <img src="https://img.shields.io/badge/-Django -- Flask -grey" alt="Django, Flask">
 
 In terms of experience, I have spent five years working extensively within the Python ecosystem and have three years of in-depth experience with Native Mobile development.
